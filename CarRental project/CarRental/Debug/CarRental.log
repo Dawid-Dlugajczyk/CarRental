@@ -1,0 +1,4 @@
+﻿  Car.cpp
+C:\Users\david\OneDrive\Pulpit\projekt zaliczeniowy\CarRental\CarRental\Car.cpp(20,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\david\OneDrive\Pulpit\projekt zaliczeniowy\CarRental\CarRental\Car.cpp(76,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CarRental.vcxproj -> C:\Users\david\OneDrive\Pulpit\projekt zaliczeniowy\CarRental\Debug\CarRental.exe
